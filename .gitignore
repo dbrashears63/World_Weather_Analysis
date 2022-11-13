@@ -1,4 +1,7 @@
-# Additional files
+# Adding config.py file
+config.py
+
+# Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
 
@@ -131,6 +134,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-config.py
+
+
 .DS_Store
 Google_Nearby_Search.ipynb
