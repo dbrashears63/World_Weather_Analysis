@@ -1,3 +1,7 @@
+# Additional files
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +131,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.py
+.DS_Store
+Google_Nearby_Search.ipynb
